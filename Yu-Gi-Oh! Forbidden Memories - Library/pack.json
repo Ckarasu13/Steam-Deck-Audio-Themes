@@ -1,0 +1,9 @@
+{
+  "name": "Yu-Gi-Oh! Forbidden Memories - Library",
+  "description": "This pack adds the music that plays in the Library menu from Yu-gi-oh! Forbidden Memories to your Steam Deck's menu.",
+  "author": "Ckarasu13",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": [],
+}
